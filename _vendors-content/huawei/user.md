@@ -7,9 +7,7 @@ manufacturer:
 
 ### Smart Tune-up
 
-There is a pre-installed app called system manager which also might kill apps depending on a setting within the app, and it has "smart" feature killing apps.
-
-<div class="img-block">
+There is a pre-installed app called system manager which also might kill apps depending on a setting within the app, and it has "smart" feature killing app
   <figure>
     <img src="/assets/img/huawei/huawei_system_manager_1.jpg">
     <figcaption>1. Open the System Manager and tap the cog icon.</figcaption>
